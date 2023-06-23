@@ -318,15 +318,15 @@ body {
 .accent {
   color: #e6bd7b !important;
 }
-
+.font-green {
+  color: #082833 !important;
+}
 .green-bg {
   background-color: #082833 !important;
 }
-
 .accent-bg {
   background-color: #e6bd7b !important;
 }
-
 .btnwhite {
   border: 1px solid #fff !important;
   background-color: transparent !important;
@@ -1117,7 +1117,7 @@ support for no js
 	margin-top:30px;
 }
 .fes2-img {
-  background: url(../images/fes2.jpg) 50% 50% no-repeat;
+  background: url(../images/bg/portrait.jpeg) 50% 50% no-repeat;
   
   width: 100%;
   display: block;	
@@ -1139,7 +1139,7 @@ support for no js
 	font-weight: 300;
 }
 .fes3-img {
-  background: url(../images/fes3.jpg) 50% 50% no-repeat;
+  background: url(../images/bg/portrait2.jpeg) 50% 50% no-repeat;
   background-size: cover;
   
   width: 100%;
@@ -1157,7 +1157,7 @@ support for no js
 	margin-top:11px;
 	height:3px;
 	width:70px;
-	background:#4b4e53;
+	background:#000;
 }
 
 /* #FEATURES 4 #NEW
@@ -1196,7 +1196,7 @@ support for no js
 	font-size:30px;
 	line-height:36px;
 	color:#4b4e53; 
-  border-left:#4b4e53 2px solid;
+  border-left:#e6bd7b 3px solid;
 }
 .section-title-2 {
   margin:0;
